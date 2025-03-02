@@ -60,16 +60,9 @@ Then, open `http://127.0.0.1:5000/` in your browser.
 
 ## 📷 **Screenshots**
 ### 🔹 **Step 1: Select an Image**
-![Step 1](https://via.placeholder.com/400x250?text=Select+Image)
-
-### 🔹 **Step 2: Enter Secret Message**
-![Step 2](https://via.placeholder.com/400x250?text=Enter+Secret+Message)
-
-### 🔹 **Step 3: Hide the Message**
-![Step 3](https://via.placeholder.com/400x250?text=Hide+Message)
-
-### 🔹 **Step 4: Extract the Message**
-![Step 4](https://via.placeholder.com/400x250?text=Extract+Message)
+![image](https://github.com/user-attachments/assets/bce5f86e-428a-4815-96b5-2640cb101510)
+![image](https://github.com/user-attachments/assets/db71d044-a59e-4cea-9d81-361c4e961bae)
+![image](https://github.com/user-attachments/assets/f8b4cf5d-329f-43e0-ac11-9710e3f4c129)
 
 ---
 
